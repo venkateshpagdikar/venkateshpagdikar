@@ -1,13 +1,27 @@
-<h1 align="center">Hi 👋, I'm Venkatesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+  <style>
+    body{
+    background-color: rgb(79, 79, 79);
+    color: aliceblue;
+    
+}
+img{
+    height: 100pc;
+    width: 400px;
+}
+  </style>
+<body>
 
-- 💬 Ask me about **Nothing**
+    <h1>Hey I am Venkatesh a Passionate WebDeveloper</h1>
 
-- 📫 How to reach me **venkateshpagdikar8@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
+    <img src="itachi.png" alt="">
+    
+</body>
+</html>
