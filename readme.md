@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 I am Venkatesh Pagdikar a Passinate Web developer</h1>
+<h1 align="left">Hey 👋 Whatss Up...</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Venkatesh Pagdikar and I'm a Passinate Web developer from Bharat</p>
 
 ###
 
