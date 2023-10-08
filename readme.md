@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Full Stack Developing<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs 2005<br>📚 I'm currently learning Full Stack Development<br>🎯 Goals: Not yet Decided<br>🎲 Fun fact: Coding Bugs were NOT named after an actual bug</p>
 
 ###
 
