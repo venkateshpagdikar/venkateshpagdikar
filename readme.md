@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FHTML5_Badge.svg%2F1024px-HTML5_Badge.svg.png&tbnid=WG3TRMa5jqPCMM&vet=12ahUKEwjY0cbOic2CAxVgbWwGHVg3DgQQMygAegQIARAt..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHTML5_Badge.svg&docid=zE9j2C1bwI5DQM&w=1024&h=1024&q=html.svg&ved=2ahUKEwjY0cbOic2CAxVgbWwGHVg3DgQQMygAegQIARAt" height="40"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
         alt="javascript logo" />
     <img width="12" />
     <img src="./html.png"
